@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+
+
+#orange-el{
+   
+    background-color: orange;
+    width: 154px;
+    border-top: 2px;
+}
+
+#apple-el{
+    
+    background-color: green;
+    width: 154px;
+    border-top: 2px;
+}
+
+div{
+    background-color: yellow;
+}
